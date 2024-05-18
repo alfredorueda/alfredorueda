@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 
 Hi, I'm Alfredo Rueda :)
 
@@ -9,4 +9,4 @@ Hi, I'm Alfredo Rueda :)
 - 💬 Ask me about Java and Mindfulness
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing Native Flute and singing in Kirtans 
--->
+
