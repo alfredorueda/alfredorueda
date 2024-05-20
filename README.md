@@ -8,5 +8,6 @@ Hi, I'm Alfredo Rueda :)
 - 🌱 I’m currently learning Python
 - 💬 Ask me about Java and Mindfulness
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing Native Flute and singing in Kirtans 
+- ⚡ Fun fact: I love playing Native Flute and singing in Kirtans:
+  https://soundcloud.com/alfredo-rueda-unsain/native-flute
 
